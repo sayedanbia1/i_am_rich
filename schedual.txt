@@ -1,0 +1,3 @@
+at the first without android studio i connect to the github and use from github for apload project.
+in second download gradle for android studio 
+in thirthy we search in the google and find title for the monograph 
